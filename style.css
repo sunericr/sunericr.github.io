@@ -15,8 +15,8 @@ body {
 }
 
 ul {
-  margin: 0;
-  padding: 0;
+  margin: 30px auto;
+  text-align: center;
 }
 
 li {
@@ -25,5 +25,5 @@ li {
   padding: 20px 0px;
   margin-left: 20px;
   margin-right: 20px;
-  display: inline;
+  display: inline-block;
 }
