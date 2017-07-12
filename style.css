@@ -21,7 +21,7 @@ body {
 }
 
 ul {
-  margin: 20px auto;
+  margin: 20px 0px auto;
   text-align: center;
 }
 
@@ -44,8 +44,21 @@ a:hover {
   color: #DBE9EE;
 }
 
+h1 {
+	padding: 50px;
+	text-align: center;
+}
+
+p {
+	padding: 50px;
+
+}
+
 .bod_box {
 	margin: 50px;
 	background-color: #DBE9EE;
+}
 
+.banner {
+	margin: 0px;
 }
