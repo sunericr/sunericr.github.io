@@ -58,11 +58,11 @@ p {
 }
 
 button {
-    background-color: #4CAF50; /* Green */
+    background-color: black; 
     opacity: 0.75;
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 10px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -103,4 +103,6 @@ a.email_but {
 
 .mySlides {
 	margin: 20px;
+	background-position: center;
+	
 }
