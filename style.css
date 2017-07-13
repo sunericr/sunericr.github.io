@@ -60,6 +60,7 @@ p {
 .bod_box {
 	margin: 20px 50px;
 	background-color: #DBE9EE;
+	border-radius: 10px;
 }
 
 .banner {
