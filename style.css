@@ -78,8 +78,10 @@ a.email_but {
   display: inline-block;
   text-decoration: none;
   color: initial;
+  margin: 20px;
 }
 
 .linked {
 	display: inline-block;
+	margin: 20px;
 }
