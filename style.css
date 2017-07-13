@@ -79,9 +79,11 @@ a.email_but {
   text-decoration: none;
   color: initial;
   margin: 50px;
+  margin-top: 0px;
 }
 
 .linked {
 	display: inline-block;
 	margin: 50px;
+	margin-top: 0px;
 }
