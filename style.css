@@ -67,6 +67,7 @@ button, span {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    position: relative;
 }
 
 .bod_box {
