@@ -57,7 +57,7 @@ p {
 
 }
 
-button, span {
+button, .captions {
     background-color: black; 
     opacity: 0.75;
     border: none;
@@ -112,7 +112,7 @@ a.email_but {
 .mySlides {
 	width: 100%;
 	position: relative;
-	bottom: 150px;
+	bottom: 200px;
  }
 
 .button_left {
@@ -121,4 +121,5 @@ a.email_but {
 
 .button_right {
 	bottom: 200px;
+	float: right;
 }
