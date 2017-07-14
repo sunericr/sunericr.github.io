@@ -101,8 +101,17 @@ a.email_but {
 	margin-top: 0px;
 }
 
-.slide_container, .mySlides {
-	width: 75%;
+.slide_container {
+	width: 90%;
+	height: 50%;
 	position: relative;
 	left: 12.5%;
+	overflow: hidden;
 }
+
+.mySlides {
+	width: 90%;
+	position: relative;
+	bottom: 10%;
+	left: 12.5%;
+ }
