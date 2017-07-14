@@ -162,18 +162,16 @@ a.email_but {
 
 .hover_text {
   background-color: black; 
-  opacity: 0;
+  opacity: 0.15;
   border: none;
   color: white;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   position: relative;
-  float: top;
   margin: 0px;
   font-size: 20px;
   width: 100%;
-  height: 200px;
 }
 
 .hover_text:hover {
