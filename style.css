@@ -101,8 +101,7 @@ a.email_but {
 	margin-top: 0px;
 }
 
-.mySlides {
-	margin: 20px;
-	background-position: center;
-	
+.slide_container {
+	margin-left: 50px;
+	margin-right: 50px;
 }
