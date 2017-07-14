@@ -57,7 +57,7 @@ p {
 
 }
 
-button, .captions {
+button {
     background-color: black; 
     opacity: 0.75;
     border: none;
@@ -66,8 +66,19 @@ button, .captions {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 25px;
+    font-size: 16px;
     position: relative;
+}
+
+.captions {
+    background-color: black; 
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
 }
 
 .bod_box {
