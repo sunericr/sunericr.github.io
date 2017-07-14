@@ -72,7 +72,7 @@ button {
 
 .captions {
     background-color: black;
-    opacity: 0.85;
+    opacity: 0.75;
     border: none;
     color: white;
     padding: 10px 25px;
@@ -125,6 +125,7 @@ a.email_but {
 	width: 100%;
 	position: relative;
 	bottom: 200px;
+	opacity: .6;
  }
 
 .button_left {
