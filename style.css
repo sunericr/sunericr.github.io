@@ -71,7 +71,8 @@ button {
 }
 
 .captions {
-    background-color: black; 
+    background-color: black;
+    opacity: 0.85;
     border: none;
     color: white;
     padding: 10px 25px;
