@@ -30,11 +30,16 @@ ul.navigation {
 img {
 	margin: auto;
 	margin-right: 35%;
+	position: relative;
+	left: 35%;
 }
 
 object {
 	margin: auto;
 	margin-right: 5%;
+	position: relative;
+  left: 5%;
+  height: 1200px;
 }
 
 li {
