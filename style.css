@@ -157,20 +157,9 @@ a.email_but {
   margin: 30px;
   overflow: hidden;
   display: inline-block;
-  background-color: black; 
-  opacity: 0;
-  border: none;
-  color: white;
-  text-align: center;
-  text-decoration: none;
-  font-size: 20px;
+  padding: 0px;
 }
 
-.project_box:hover {
-  opacity: .6;
-}
-
-/*
 .hover_text {
   background-color: black; 
   opacity: 0;
@@ -178,11 +167,12 @@ a.email_but {
   color: white;
   text-align: center;
   text-decoration: none;
-  display: block;
+  display: inline-block;
+  margin: 0px;
   font-size: 20px;
   width: 100%;
 }
 
 .hover_text:hover {
   opacity: .6;
-}*/
+}
