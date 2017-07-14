@@ -168,11 +168,15 @@ a.email_but {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  position: relative;
+  bottom: 50px;
   margin: 0px;
   font-size: 20px;
   width: 100%;
 }
 
-.hover_text:hover {
-  opacity: .6;
+.project_box:hover {
+  .hover_text {
+    opacity: .6;
+  }
 }
