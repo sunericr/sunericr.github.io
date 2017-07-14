@@ -27,8 +27,14 @@ ul.navigation {
   text-align: center;
 }
 
-img, object {
+img {
 	margin: auto;
+	margin-right: 35%;
+}
+
+object {
+	margin: auto;
+	margin-right: 5%;
 }
 
 li {
