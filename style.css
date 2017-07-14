@@ -103,14 +103,14 @@ a.email_but {
 
 .slide_container {
 	width: 90%;
-	height: 50%;
+	height: 30%;
 	position: relative;
 	left: 5%;
 	overflow: hidden;
 }
 
 .mySlides {
-	width: 90%;
+	width: 100%;
 	position: relative;
 	bottom: 10%;
  }
