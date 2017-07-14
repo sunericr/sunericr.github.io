@@ -169,11 +169,11 @@ a.email_but {
   text-decoration: none;
   display: block;
   position: relative;
-  bottom: 50px;
+  bottom: 50%;
   margin: 0px;
   font-size: 20px;
-  width: 100%;
-  height: 100%
+  width: 100%
+  height: 100px;
 }
 
 .hover_text:hover {
