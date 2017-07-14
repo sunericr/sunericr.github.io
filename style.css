@@ -27,6 +27,10 @@ ul.navigation {
   text-align: center;
 }
 
+img {
+	margin: auto;
+}
+
 li {
 	color: #FFF;
   font-weight: 100;
