@@ -113,3 +113,11 @@ a.email_but {
 	position: relative;
 	bottom: 150px;
  }
+
+.button_left {
+ 	bottom: 200px;
+}
+
+.button_right {
+	bottom: 200px;
+}
