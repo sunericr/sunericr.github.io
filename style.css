@@ -151,3 +151,23 @@ a.email_but {
 	bottom: 200px;
 	float: right;
 }
+
+.project_box {
+  width: 20%;
+  margin: 30px;
+}
+
+.hover_text {
+  background-color: black; 
+  opacity: 0;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.hover_text:hover {
+  opacity: .6;
+}
