@@ -109,7 +109,7 @@ a.email_but {
 	overflow: hidden;
 }
 
-.slideimg {
+.mySlides {
 	width: 100%;
 	position: relative;
 	bottom: 200px;
@@ -124,7 +124,4 @@ a.email_but {
 	float: right;
 }
 
-.captions {
-	float: top;
-}
 
