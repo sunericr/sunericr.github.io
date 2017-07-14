@@ -27,7 +27,7 @@ ul.navigation {
   text-align: center;
 }
 
-img {
+img, object {
 	margin: auto;
 }
 
