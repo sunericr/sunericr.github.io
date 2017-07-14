@@ -125,5 +125,5 @@ a.email_but {
 }
 
 .captions {
-	bottom: 300px;
+	float: top;
 }
