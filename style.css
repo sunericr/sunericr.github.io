@@ -73,16 +73,20 @@ p {
 }
 
 button {
-    background-color: black; 
-    opacity: 0.75;
-    border: none;
-    color: white;
-    padding: 10px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    position: relative;
+  background-color: black; 
+  opacity: 0.75;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: relative;
+}
+
+iframe {
+  margin: auto;
 }
 
 .captions {
