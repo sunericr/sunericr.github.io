@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html>
-  <body>
-    <iframe id="download_iframe" style="display:none;"></iframe>
+    <a href="NFC_Vcard/GenericDude.vcf" download="GenericDude.vcf" id="link">download pdf</a>
+
     <script>
-    function Download() {
-        document.getElementById('download_iframe').src = "NFC_VCard/GenericDude.vcf";
-    };
-    Download();
+    var link = document.getElementById("link");
+    link.click()
     </script>
-  </body>
 </html>
